@@ -1,0 +1,26 @@
+.not-found-parent {
+  height: 100vh;
+  width: 100%;
+  background: url("../../../assets/icons/logo.png") center/30% no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.not-found-child {
+  width: 50%;
+  height: 50%;
+  margin-top: 10%;
+}
+
+.not-found-link-btn {
+  background-color: #395e9d;
+  color: white;
+  text-align: center;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  margin-top: 15%;
+}
+.not-found-link-btn:hover {
+  color: white;
+}
